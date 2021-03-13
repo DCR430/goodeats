@@ -1,9 +1,10 @@
 .singleOffice{
-    flex: content;
+    display: flex;
+    justify-content: space-between;
     flex-direction: row;
     border:1px solid black;
     text-align: center;
-
+ 
 
  
   }
