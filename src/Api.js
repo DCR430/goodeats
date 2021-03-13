@@ -46,19 +46,8 @@ const api=[
          "reserved":false,
          "cost": 4
                           
-    },
-    {
-        "name": "office 9",
-        "reserved":false,
-        "cost": 4
-    },
-                              
-     {
-        "name": "office 10",
-        "reserved":true,
-        "cost": 4
-                                  
     }
+
 ]
 
 export default api
